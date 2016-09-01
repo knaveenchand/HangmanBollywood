@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bollywood Hangman</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">Bollywood Hangman</string>
+    <string name="gallows">The Gallows</string>
+    <string name="head">The Head</string>
+    <string name="body">The Body</string>
+    <string name="arm">An Arm</string>
+    <string name="leg">A Leg</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5129749191160516/7123005588</string>
+
+</resources>

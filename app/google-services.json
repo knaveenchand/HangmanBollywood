@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277962250926",
+    "firebase_url": "https://admob-app-id-7123005588.firebaseio.com",
+    "project_id": "admob-app-id-7123005588",
+    "storage_bucket": "admob-app-id-7123005588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277962250926:android:228da08931da08fe",
+        "android_client_info": {
+          "package_name": "com.timor.naveen.hangmanbollywood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277962250926-siq6ce7791mpjp2l29l8k9j9dkcr5uef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOkgXsHsqEnkoxhj4R6a6xx3SMDTouYps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
